@@ -6,7 +6,7 @@ const FoodItems = () => {
     return (
         <View>
             <Text>Food Items</Text>
-            <Text>Created By Prince Kumar</Text>
+            {/* <Text>Created By Prince Kumar</Text> */}
         </View>
     )
 }
